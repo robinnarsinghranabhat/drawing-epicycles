@@ -21,8 +21,7 @@ function setup() {
   cycle3 = new Cycle(150, 100 , 20 , 0.3);
 }
 ```
-![Alt Text](epicycles_p5_gif.gif)
-
+<img src="epicycles_p5_gif.gif" width="100%" height="100%"/>
 
 **Extra** <br/>
 To ponder, imagine given that you are allowed to see only that complicated wave on the right side of gif, you were asked to decipher what sine functions generated those. 
